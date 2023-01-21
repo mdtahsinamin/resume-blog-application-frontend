@@ -1,0 +1,48 @@
+.hero-warp {
+  min-height: 380px;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.main {
+  margin: 0 auto;
+}
+.online-resume h1 {
+  text-align: center;
+  font-family: "Lora", serif;
+  color: #000;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top: 75px;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: bold;
+}
+.online-resume p {
+  max-width: 790px;
+  text-align: center;
+  color: #000;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 29px;
+}
+.hero-warp .create-resume-btn {
+  text-align: center;
+  margin-top: 40px;
+}
+.btn-create-resume {
+  cursor: pointer;
+  border: 0;
+  border-radius: 5px;
+  width: 360px;
+  height: 72px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: center;
+  line-height: 72px;
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-family: "Muli", sans-serif;
+  font-weight: 400;
+  background-color: #23976f;
+  color: #fff;
+}

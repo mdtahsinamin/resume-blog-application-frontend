@@ -1,0 +1,19 @@
+.front-page .center {
+  text-align: center;
+}
+.bottom-spacing {
+  margin-bottom: 100px;
+}
+
+.top-spacing {
+  margin-top: 100px;
+}
+.front-page .center h2 {
+  margin-bottom: 30px;
+}
+.demo-h2 {
+  font-size: 40px;
+  line-height: 52px;
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+}
